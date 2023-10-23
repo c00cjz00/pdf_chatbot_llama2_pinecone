@@ -10,3 +10,15 @@ ml libs/singularity/3.10.2
 singularity exec -B /work /work/u00cjz00/nvidia/transformers-pytorch-gpu_latest.sif pip3 install -r requirements.txt
 singularity exec -B /work /work/u00cjz00/nvidia/transformers-pytorch-gpu_latest.sif python3 python_script.py 
 ```
+
+### 3. 問題範例
+```
+# 針灸
+ware is Acupuncture?
+Give me some BOOKS about Acupuncture.
+# 過敏
+What are Allergies?
+
+# 穴位
+請列出跟肺臟有關的穴位
+```
