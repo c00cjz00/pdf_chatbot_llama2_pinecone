@@ -1,0 +1,6 @@
+pinecone-client
+langchain
+sentence-transformers
+openai
+pypdf
+IProgress
