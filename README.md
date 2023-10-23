@@ -1,6 +1,12 @@
 # pdf_chatbot_llama2_pinecone
+### 0. 下載程式碼
+```
+git clone https://github.com/c00cjz00/pdf_chatbot_llama2_pinecone.git
+```
+
 ### 1. 放置 PDF 於data 資料夾
 ```
+cd pdf_chatbot_llama2_pinecone
 mkdir data
 cp Medical_Chatbot.pdf data/
 ```
