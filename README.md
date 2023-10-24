@@ -19,7 +19,7 @@ singularity exec --nv -B /work /work/u00cjz00/nvidia/transformers-pytorch-gpu_la
 
 ### 3. 問題範例
 ```
-# 指壓
+# 針灸
 ware is Acupuncture?
 Give me some BOOKS about Acupuncture.
 
